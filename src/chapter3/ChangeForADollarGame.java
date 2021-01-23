@@ -27,6 +27,7 @@ public class ChangeForADollarGame {
 
         System.out.println("Enter number of quarters: ");
         int quarterInput = scanner.nextInt();
+        scanner.close();
 
         double userPennies = pennyInput * penny;
         double userNickels = nickelInput * nickel;
