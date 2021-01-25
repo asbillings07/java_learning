@@ -1,5 +1,7 @@
 package exercises;
 
+import chapter6.PhoneBill;
+
 import java.util.Scanner;
 
 // chapter 4 exercise
@@ -49,6 +51,5 @@ public class PhoneBillCalculator {
         double planCost = scanner.nextDouble();
         return planCost;
     }
-
 
 }
