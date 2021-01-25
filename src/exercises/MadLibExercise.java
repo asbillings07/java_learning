@@ -1,6 +1,8 @@
-package chapter2;
+package exercises;
 
 import java.util.Scanner;
+
+// Chapter 1 exercise
 
 public class MadLibExercise {
 

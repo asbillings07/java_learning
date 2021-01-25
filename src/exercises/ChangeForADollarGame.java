@@ -1,6 +1,8 @@
-package chapter3;
+package exercises;
 
 import java.util.Scanner;
+
+// chapter 2 exercise
 
 public class ChangeForADollarGame {
     public static void main(String args[]) {

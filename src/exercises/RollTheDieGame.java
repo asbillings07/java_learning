@@ -1,7 +1,9 @@
-package chapter4;
+package exercises;
 
 import java.util.Random;
 import java.util.Scanner;
+
+// chapter 3 exercise
 
 public class RollTheDieGame {
     public static void main(String args[]) {
