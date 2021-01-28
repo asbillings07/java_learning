@@ -1,15 +1,13 @@
 package chapter9;
-
+// Super Class
 public class Person {
 
     private String name;
     private int age;
     private String gender;
 
-    public Person() {
-        System.out.println("In Person default constructor");
-    }
     public Person(String name) {
+
         System.out.println("In Person 2nd constructor. Name is set");
     }
 
